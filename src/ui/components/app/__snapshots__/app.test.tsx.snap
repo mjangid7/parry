@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="app__StyledApp-sc-115d7k0-0 enildR"
+  >
+    <header
+      class="app__Header-sc-115d7k0-1 EyIkl"
+    >
+      <img
+        alt="logo"
+        class="app__Logo-sc-115d7k0-2 gxdYOr"
+        src="logo.svg"
+      />
+      <p>
+        Edit 
+        <code>
+          src/ui/components/app/app.tsx
+        </code>
+         and save to reload.
+      </p>
+      <a
+        class="app__Link-sc-115d7k0-3 dvJOTe"
+        href="https://reactjs.org"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Learn React
+      </a>
+    </header>
+  </div>
+</DocumentFragment>
+`;
